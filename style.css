@@ -26,19 +26,21 @@ h2 {
   color: hsl(244, 54%, 33%);
   margin: 1em;
 }
+
 h3 {
   text-align: justify;
   font-family:'Times New Roman', Times, serif;
   font-size: 25;
   color: black;
-  margin: 0.5em;
-  
+  margin: 0.5em; 
   }
+
 .style {
   text-align: center;
   color: hsl(244, 54%, 33%);
   font-size: 30;
   }
+
 body {
   text-align: justify;
   margin: 0 auto;
@@ -50,5 +52,6 @@ body {
   background-size: cover;
   background-position: center;
   }
-  
+
+
   
