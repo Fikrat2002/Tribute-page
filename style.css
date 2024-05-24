@@ -1,0 +1,25 @@
+header {
+    font-size: 20;
+    color: hsl(244, 54%, 33%);
+  }
+  img {
+    display: block;
+    max-width: 100%;
+    min-height: 600;
+    width: 800px;
+    height: auto;
+  }
+  h1 {
+    text-align: center;
+    font-family: Times New Roman;
+    font-size: 50;
+    color: hsl(244, 54%, 33%);
+    margin: 1em;
+  }
+  h2 {
+    text-align: center;
+    font-family: Times New Roman;
+    font-size: 30;
+    color: hsl(244, 54%, 33%);
+    margin: 1em;
+  }
