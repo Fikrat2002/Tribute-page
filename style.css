@@ -88,9 +88,8 @@ body {
   width: 500px;
   height: auto;
 }
-  
+
 .portrays::after {
-  content: "";
   width: 150px;
 }
 
